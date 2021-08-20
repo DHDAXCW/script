@@ -1,7 +1,7 @@
 # package_target
 啊这。。。
 # AES算法测试
-- 复制链接执行下面的命令
+- 复制链接在openwrt ttyd执行下面的命令
 ``` 
 wget https://raw.githubusercontent.com/DHDAXCW/package_target/master/test.sh && sh test.sh
 ```
