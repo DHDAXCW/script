@@ -11,7 +11,6 @@ wget https://gitee.com/dhdaxcw/aes/raw/master/test.sh && sh test.sh
 ```
 - 然后回车等待测算。如下面测试结果。
 - 我以r2c测的结果
-- 
 
 -----------------nmsl friendlyarm -----------------
           
