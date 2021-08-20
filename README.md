@@ -27,4 +27,4 @@ wget https://gitee.com/dhdaxcw/aes/raw/master/test.sh && sh test.sh
           Method xchacha20-ietf-poly1305 speed: 220M
 -----------------nmsl friendlyarm -----------------
 
-内存超频环境下测的 勿喷！
+上面结果在内存超频环境下测的 勿喷！
