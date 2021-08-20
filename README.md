@@ -4,7 +4,6 @@
 - 复制链接执行下面的命令
 ``` 
 https://raw.githubusercontent.com/DHDAXCW/package_target/master/test.sh && sh test.sh
-
 ```
 - 然后回车等待测算。如下面测试结果。
 - 我以r2c测的结果
