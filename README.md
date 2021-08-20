@@ -23,3 +23,5 @@ wget https://raw.githubusercontent.com/DHDAXCW/package_target/master/test.sh && 
           Method rc4-md5 speed: 194M          
           Method xchacha20-ietf-poly1305 speed: 220M
 -----------------nmsl friendlyarm -----------------
+
+内存超频环境下测的 勿喷！
