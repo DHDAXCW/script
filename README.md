@@ -37,32 +37,54 @@ wget https://raw.githubusercontent.com/DHDAXCW/package_target/master/bench.sh &&
 ----------------------------------------------------------------------
 
  CPU Model             : Intel(R) Xeon(R) CPU E5-2683 v3 @ 2.00GHz
+ 
  CPU Cores             : 32
+ 
  CPU Frequency         : 1999.998 MHz
+ 
  CPU Cache             : 35840 KB
+ 
  Total Disk            : 99.5 GB (36.8 GB Used)
+ 
  Total Mem             : 15985 MB (483 MB Used)
+ 
  Total Swap            : 0 MB (0 MB Used)
+ 
  System uptime         : 0 days, 22 hour 3 min
+ 
  Load average          : 0.00, 0.00, 0.00
+ 
  OS                    : Ubuntu 20.04.3 LTS
+ 
  Arch                  : x86_64 (64 Bit)
+ 
  Kernel                : 5.4.0-91-generic
+ 
  TCP CC                : cubic
+ 
  Virtualization        : VMware
+ 
  Organization          : AS4134 CHINANET-BACKBONE
+ 
  Location              : Dongguan / CN
+ 
  Region                : Guangdong
  
 ----------------------------------------------------------------------
 
  I/O Speed(1st run)    : 46.0 MB/s
+ 
  I/O Speed(2nd run)    : 67.2 MB/s
+ 
  I/O Speed(3rd run)    : 30.6 MB/s
+ 
  Average I/O speed     : 47.9 MB/s
  
+ 
 ----------------------------------------------------------------------
+
  Node Name        Upload Speed      Download Speed      Latency
+ 
  Speedtest.net    33.39 Mbps        314.10 Mbps         19.49 ms
  
 ----------------------------------------------------------------------
