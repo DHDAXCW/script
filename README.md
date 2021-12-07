@@ -36,7 +36,6 @@ wget https://raw.githubusercontent.com/DHDAXCW/package_target/master/bench.sh &&
 ```
 ### 等待下面评测结果
 
-
 ----------------------------------------------------------------------
  CPU Model             : Intel(R) Xeon(R) CPU E5-2683 v3 @ 2.00GHz
  CPU Cores             : 32
@@ -55,13 +54,16 @@ wget https://raw.githubusercontent.com/DHDAXCW/package_target/master/bench.sh &&
  Organization          : AS4134 CHINANET-BACKBONE
  Location              : Dongguan / CN
  Region                : Guangdong
+ 
 ----------------------------------------------------------------------
 
  I/O Speed(1st run)    : 46.0 MB/s
  I/O Speed(2nd run)    : 67.2 MB/s
  I/O Speed(3rd run)    : 30.6 MB/s
  Average I/O speed     : 47.9 MB/s
+ 
 ----------------------------------------------------------------------
  Node Name        Upload Speed      Download Speed      Latency
  Speedtest.net    33.39 Mbps        314.10 Mbps         19.49 ms
+ 
 ----------------------------------------------------------------------
