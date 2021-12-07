@@ -29,13 +29,11 @@ wget https://gitee.com/dhdaxcw/aes/raw/master/test.sh && sh test.sh
 
 上面结果在内存超频环境下测的 勿喷！
 
-# 一键测试脚本
+# 一键测速脚本
 执行下面代码
 ```
 wget https://raw.githubusercontent.com/DHDAXCW/package_target/master/bench.sh && bash bench.sh
 ```
-### 等待下面评测结果
-
 ----------------------------------------------------------------------
 
  CPU Model             : Intel(R) Xeon(R) CPU E5-2683 v3 @ 2.00GHz
