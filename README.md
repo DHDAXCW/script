@@ -37,6 +37,7 @@ wget https://raw.githubusercontent.com/DHDAXCW/package_target/master/bench.sh &&
 ### 等待下面评测结果
 
 ----------------------------------------------------------------------
+
  CPU Model             : Intel(R) Xeon(R) CPU E5-2683 v3 @ 2.00GHz
  CPU Cores             : 32
  CPU Frequency         : 1999.998 MHz
