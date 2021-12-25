@@ -51,12 +51,12 @@ main(){
 	done
 	set +x
 	echo
-	echo -----------------nmsl friendlyarm -----------------
+	echo ----------------- friendlyarm -----------------
 	for method in $test_method
 	do
 		echo "          Method $method speed: `cat ${method}_curl_info |grep '100'|awk -F ' ' '{print $(NF-5)}'`"
 	done
-	echo -----------------nmsl friendlyarm -----------------
+	echo ----------------- friendlyarm -----------------
 	echo
 	set -x
 	clean_all
