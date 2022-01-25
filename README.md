@@ -32,7 +32,7 @@ wget https://gitee.com/dhdaxcw/aes/raw/master/test.sh && sh test.sh
 # openwrt 测温脚本
 
 ```
-wget https://raw.githubusercontent.com/DHDAXCW/script/cputemp.sh && bash bench.sh
+https://raw.githubusercontent.com/DHDAXCW/script/master/cputemp.sh && bash bench.sh
 ```
 
 # 一键测速脚本
