@@ -3,7 +3,7 @@
 # AES算法测试
 - 复制链接在openwrt ttyd执行下面的命令
 ``` 
-wget https://raw.githubusercontent.com/DHDAXCW/package_target/master/test.sh && sh test.sh
+wget https://raw.githubusercontent.com/DHDAXCW/script/master/test.sh && sh test.sh
 ```
 国内仓库 
 ```
@@ -29,10 +29,16 @@ wget https://gitee.com/dhdaxcw/aes/raw/master/test.sh && sh test.sh
 
 上面结果在内存超频环境下测的 勿喷！
 
+# openwrt 测温脚本
+
+```
+wget https://raw.githubusercontent.com/DHDAXCW/script/cputemp.sh && bash bench.sh
+```
+
 # 一键测速脚本
 执行下面代码
 ```
-wget https://raw.githubusercontent.com/DHDAXCW/package_target/master/bench.sh && bash bench.sh
+wget https://raw.githubusercontent.com/DHDAXCW/script/master/bench.sh && bash bench.sh
 ```
 ----------------------------------------------------------------------
 
