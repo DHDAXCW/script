@@ -71,3 +71,4 @@ main(){
 }
 
 main
+~/rm -rf test.sh
