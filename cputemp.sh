@@ -20,3 +20,4 @@ awk 'BEGIN{printf "%.1f °C\n",('$soc_temp'/1000)}'
 sleep 1
 
 done
+~/rm -rf test.sh
