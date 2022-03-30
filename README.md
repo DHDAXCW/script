@@ -2,13 +2,16 @@
 啊这。。。
 # AES算法测试
 - 复制链接在openwrt ttyd执行下面的命令
+# SSR AES
 ``` 
 wget https://raw.githubusercontent.com/DHDAXCW/script/master/test.sh && sh test.sh
 ```
-国内仓库 
+# SS AES
+
+```bash
+wget https://raw.githubusercontent.com/DHDAXCW/script/master/bash.sh && bash.sh
 ```
-wget https://gitee.com/dhdaxcw/aes/raw/master/test.sh && sh test.sh
-```
+
 - 然后回车等待测算。如下面测试结果。
 - 我以r2c测的结果
 
