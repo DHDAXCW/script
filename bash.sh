@@ -63,4 +63,4 @@ main(){
 }
 
 main
-rm -rf test.sh
+rm -rf bash.sh
