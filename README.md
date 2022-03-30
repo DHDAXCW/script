@@ -3,7 +3,7 @@
 # AES算法测试
 - 复制链接在openwrt ttyd执行下面的命令
 # SSR AES
-``` 
+```bash
 wget https://raw.githubusercontent.com/DHDAXCW/script/master/test.sh && sh test.sh
 ```
 # SS AES
