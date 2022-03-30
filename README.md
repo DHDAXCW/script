@@ -9,7 +9,7 @@ wget https://raw.githubusercontent.com/DHDAXCW/script/master/test.sh && sh test.
 # SS AES
 
 ```bash
-wget https://raw.githubusercontent.com/DHDAXCW/script/master/bash.sh && bash.sh
+wget https://raw.githubusercontent.com/DHDAXCW/script/master/ss-aes.sh && sh ss-aes.sh
 ```
 
 - 然后回车等待测算。如下面测试结果。
