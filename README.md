@@ -41,7 +41,7 @@ wget https://raw.githubusercontent.com/DHDAXCW/script/master/cputemp.sh && bash 
 # 一键测速脚本
 执行下面代码
 ```
-wget https://raw.githubusercontent.com/DHDAXCW/script/master/bench.sh && bash bench.sh
+wget https://raw.githubusercontent.com/DHDAXCW/script/master/bench.sh && bash bash.sh
 ```
 ----------------------------------------------------------------------
 
